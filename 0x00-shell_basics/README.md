@@ -10,4 +10,5 @@ Description of the functionality of each script
 9. the 8-firstdelete script deletes the betty file in /tmp/my_first_directory/
 10. the 10-back script changes the working directory to the previous one
 11. the 11-lists script list the contents of the cuurent working directory, parent working directory and /boot
-12. the 12-file_type scripts prints the type of file named iamafile 
+12. the 12-file_type scripts prints the type of file named iamafile
+13. the 13-symbolic_link script creates a symbolic link 
