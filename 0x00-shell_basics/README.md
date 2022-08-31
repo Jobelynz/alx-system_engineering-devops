@@ -3,3 +3,4 @@ Description of the functionality of each script
 2. the 1-listit script displays the content list of your current working directory.
 3. the 2-bring_me_home script changes the working directory to the users home directory
 4. the 3-listfiles script displays current diectory contents in long format.
+5. the 4-listmorefiles script displays current directory contents including files starting with . in the long format.
