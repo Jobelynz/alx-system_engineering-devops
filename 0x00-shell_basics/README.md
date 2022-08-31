@@ -11,4 +11,5 @@ Description of the functionality of each script
 10. the 10-back script changes the working directory to the previous one
 11. the 11-lists script list the contents of the cuurent working directory, parent working directory and /boot
 12. the 12-file_type scripts prints the type of file named iamafile
-13. the 13-symbolic_link script creates a symbolic link 
+13. the 13-symbolic_link script creates a symbolic link
+14. the 14-copy_html script copies all the html files 
