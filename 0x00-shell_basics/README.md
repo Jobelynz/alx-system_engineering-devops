@@ -8,4 +8,5 @@ Description of the functionality of each script
 7. the 6-firstdirectory script creates a directory named my_first_directory in the /tmp/ directory.
 8. the 7-movethatfile script moves betty from /tmp/ to /tmp/my_first_directory
 9. the 8-firstdelete script deletes the betty file in /tmp/my_first_directory/
-10. the 10-back script changes the working directory to the previous one 
+10. the 10-back script changes the working directory to the previous one
+11. the 11-lists script list the contents of the cuurent working directory, parent working directory and /boot 
