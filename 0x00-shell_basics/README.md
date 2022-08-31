@@ -6,4 +6,5 @@ Description of the functionality of each script
 5. the 4-listmorefiles script displays current directory contents including files starting with . in the long format
 6. the 5-listfilesdigitonly script displays the current directory contents in long format, with user and group IDs displayed numerically and hidden files.
 7. the 6-firstdirectory script creates a directory named my_first_directory in the /tmp/ directory.
-8. the 7-movethatfile script moves betty from /tmp/ to /tmp/my_first_directory 
+8. the 7-movethatfile script moves betty from /tmp/ to /tmp/my_first_directory
+9. the 8-firstdelete script deletes the betty file in /tmp/my_first_directory/ 
