@@ -10,3 +10,4 @@
 10. the 9-John_Doe script sets the permission to -rwxr-x-wx
 11. the 10-mirror_permissions script sets the mode of the file "hello" to the same as "olleh"
 12. the 11-directories_permissions script adds execute permissions to all subdirectories of the current directory for owner, the group owner and all other users
+13. the 12-directory_permission script creates a directory called my_dir with permissions 751
