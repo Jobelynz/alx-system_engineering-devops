@@ -13,3 +13,4 @@
 13. the 12-directory_permission script creates a directory called my_dir with permissions 751
 14. the 13-change_group script changes the group owner to school for the file hello
 15. the 100-change_owner_and_group script changes the owner to vinceny and the group owner to staff
+16. the 101-symbolic_link_permissions script changes the owner and the group owner of _hello to vincent and staff respectively
