@@ -8,4 +8,5 @@
 8. the 7-everybody script adds permission to the owner, the group and the other users
 9. the 8-James_Bond script adds all permission to only the other users, the rest null
 10. the 9-John_Doe script sets the permission to -rwxr-x-wx
-11. th 10-mirror_permissions script sets the mode of the file "hello" to the same as "olleh"
+11. the 10-mirror_permissions script sets the mode of the file "hello" to the same as "olleh"
+12. the 11-directories_permissions script adds execute permissions to all subdirectories of the current directory for owner, the group owner and all other users
