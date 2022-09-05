@@ -18,3 +18,10 @@
 18. the 17-hidethisword script display all the lines in the file /etc/passwd that do not contain the pattern “bin”. 
 19. the 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
 20. the 19-AZ script replace all characters A and c from input to Z and e respectively.
+21. the 20-hiago script removes all letters c and C from input.
+22. the 21-reverse script reverse its input.
+23. the 22-users_and_homes script displays all users and their home directories, sorted by users.
+24. the 100-empty_casks script finds all empty files and directories in the current directory and all sub-directories.
+25. the 101.gifs script lists all the files with a .gif extension in the current directory and all its sub-directories.
+26. the 102-acrostic script decodes acrostics that use the first letter of each line.
+27. the 103-the_biggest_fan script parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
